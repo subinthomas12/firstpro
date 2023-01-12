@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Rubik+Gemstones&family=Teko:wght@300&display=swap');
+
+.stick{
+    position: sticky;
+    height: 75px;
+    top: 0px;
+    background-color: white;
+}
+
+#font1 {
+    color: black;
+    padding-left: 60px;
+    font-weight: bold;
+    float: left;
+}
+
+#font1:hover {
+    color: crimson;
+}
+
+
+.header a {
+    float: left;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #717275;
+    padding-left: 50px;
+    margin-left: 30px;
+    padding-top: 25px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.header a:hover {
+    color: crimson;
+}
+
+.navbtn {
+    color: crimson;
+    width: 170px;
+    height: 40px;
+    text-align:center;
+    float: right;
+    background-color: crimson;
+    color: white;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.navbtn:hover{
+    background-color:white;
+    color: crimson;
+}
+
+#font1{
+    font-family: 'Montserrat Subrayada', sans-serif;
+
+}
+
+.bckimg{
+    background-image: url("./images/rest1stimg.jpg");
+    background-size: cover;
+    height: 700px;      
+} 
+
+.txt_block{
+    /* font-family: 'Oswald', sans-serif; */
+    /* height: 600px;
+    width: 600px; */
+}
+.bckimg .txt_block{
+    color: white;
+    padding-left: 20%;
+    padding-top: 30%;
+
+}
+/* #innerbckimg{
+   width: 700px;
+   padding-left: 30%;
+} */
+
+#gallery{
+    width: 30%;
+    height: 600px;
+    
+   
+    float: left;
+    color: aliceblue;
+    padding: 70px;
+}
+
+#galimg{
+    width: 450px;
+    height: 450px;
+}
+
+#bck2nd{
+    padding-top: 50px;
+    position: sticky;
+    top: 0px;
+}
+
+#pad{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.btn_menu{
+    background-color: whitesmoke;
+    color: goldenrod;
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    border-radius: 40px;
+    border-color: goldenrod;
+    float: right;
+    
+}
+
+.n_e_slide{
+    float: left;
+    width: 50%;
+    padding: 65px;
+    
+}
+
+.n_e_slide2{
+    float: left;
+    width: 50%;
+    padding: 65px;
+}
+
+.hoved:hover{
+    color: crimson;
+
+}
+
+
+/* .footerimg{
+    background-image: url("./images/fooooter.jpg");
+    /* background-size: cover; */
+    /* height: 400px;
+    padding-top: 2500px;
+}
+ */ */
+
+header{
+    background-image: url("./images/burger.jpg");
+    background-size: cover;
+}
+
+/* .footer{
+    background-color: black;
+    height: 500px;
+    align-items: flex-end;
+    justify-content:end;
+    
+
+} */
+
+.row{
+    width: 1600px;
+    height: 600px;
+    background-color: black;
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.col{
+    width: 300px;
+    height: 600px;
+}
+
+.col-1{
+    
+    background-color: black;
+}
+
+.col-2{
+    background-color: black;
+}
+.col-3{
+    background-color: black;
+}
+
+:hover{
+    color: crimson;
+}
+.hoo:hover{
+    color: crimson;
+}
